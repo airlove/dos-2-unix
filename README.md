@@ -4,7 +4,7 @@
 
 windows系统执行下面的命令
 ~~~
-.\grwdlew uploadArchives
+.\gradlew uploadArchives
 
 ~~~
 然后将 build/release下面生成的文件和目录放到项目的gradle/plugin 目录下面
@@ -34,5 +34,5 @@ dos2Unix{
 然后执行下面命令即可
 
 ~~~
-.\grwdlew dos2Unix
+.\gradlew dos2Unix
 ~~~
